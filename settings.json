@@ -1,0 +1,231 @@
+// {
+//   // Editor
+//   // "editor.fontFamily": "Cascadia Code",
+//   "editor.fontFamily": "Geist Mono",
+//   // "editor.fontFamily": "Menlo",
+//   "apc.font.family": "Geist Mono",
+//   "editor.fontSize": 15.8,
+//   "editor.fontWeight": "normal",
+//   "editor.lineHeight": 1.43,
+//   "editor.inlayHints.fontFamily": "Geist Mono",
+//   "editor.minimap.enabled": false,
+//   // "workbench.activityBar.location": "hidden",
+//   "workbench.colorTheme": "Vesper",
+//   "workbench.sideBar.location": "right",
+//   // "workbench.settings.editor": "json",
+//   "scm.inputFontFamily": "Geist Mono",
+//   "terminal.integrated.fontFamily": "MeslolGl Nerd Font",
+//   "chat.editor.fontFamily": "Geist Mono",
+//   "debug.console.fontFamily": "Geist Mono",
+//   "editor.codeLensFontFamily": "Geist Mono",
+//   "notebook.output.fontFamily": "Geist Mono",
+//   "markdown.preview.fontFamily": "Geist Mono",
+//   "terminal.integrated.fontSize": 14,
+//   "editor.wordWrap": "on",
+//   "editor.unicodeHighlight.nonBasicASCII": false,
+//   "breadcrumbs.enabled": false,
+//   "window.commandCenter": false, // hides command center at the top of the window. Use cmd+shift+p instead
+//   "workbench.layoutControl.enabled": false, // hides those little squares on the top right of the window
+//   "editor.minimap.renderCharacters": false,
+//   "editor.hideCursorInOverviewRuler": true,
+//   // "workbench.statusBar.visible": false, // hide bottom bar
+//   "editor.stickyScroll.enabled": true,
+//   "workbench.startupEditor": "none",
+//   "editor.tabSize": 2,
+//   "editor.linkedEditing": true,
+//   "breadcrumbs.filePath": "off",
+//   "files.trimTrailingWhitespace": true,
+//   "editor.bracketPairColorization.enabled": true,
+//   "editor.guides.bracketPairs": true,
+//   "window.zoomLevel": 0.75,
+//   // "editor.cursorSmoothCaretAnimation": "on",
+//   // "editor.cursorBlinking": "smooth",
+//   "workbench.colorCustomizations": {
+//     // "activityBar.background": "#1A1D26",
+//     // "sideBar.background": "#1A1D26"
+//     // "terminal.background": "#1A1D26",
+//     // "editorGroup.background": "#1A1D26",
+//     // "statusBar.background": "#1A1D26",
+//     // "titleBar.activeBackground": "#1A1D26"
+//     // -------------
+//     // "tab.activeBackground": "#222",
+//     // "tab.inactiveBackground": "#111",
+//     // "statusBar.background": "#181515",
+//     // "editorSuggestWidget.background": "#181515"
+//     // -------------
+//     // "titleBar.inactiveBackground": "#181515",
+//     // "list.activeSelectionBackground": "#181515",
+//     // "list.inactiveSelectionBackground": "#181515",
+//     // "list.hoverBackground": "#181515",
+//     // "editorGroupHeader.tabsBackground": "#181515",
+//     // "editorGroup.border": "#181515",
+//     // "editorRuler.foreground": "#181515",
+//     // "editorWidget.background": "#181515",
+//     // "peekViewTitle.background": "#181515",
+//     // "peekViewEditor.background": "#181515",
+//     // "peekView.border": "#181515",
+//     // "panel.background": "#181515",
+//     // "statusBarItem.remoteBackground": "#181515"
+//   },
+//   // Apc Customize UI
+//   "apc.activityBar": {
+//     "position": "bottom",
+//     // "hideSettings": "true",
+//     "size": 32
+//   },
+//   "apc.stylesheet": {
+//     // ".sidebar > .composite": "height: 12px !important",
+//     // ".title-label": "display: none !important",
+//     // ".title-actions": "display: none !important",
+//     // ".tabs-and-actions-container > .editor-actions": "display: none !important",
+//     // ".titlebar-center": "display: none !important",
+//     // ".titlebar-right": "display: none !important",
+//     ".inline-tabs-placeholder": "display: none !important"
+//     // ".split-view-view .visible": "background-color: #110f17 !important"
+//   },
+//   "apc.header": {
+//     "height": 30,
+//     "fontSize": 12
+//   },
+//   "apc.listRow": {
+//     "height": 21.4,
+//     "fontSize": 12
+//   },
+//   "apc.statusBar": {
+//     "position": "editor-bottom",
+//     "height": 20,
+//     "fontSize": 10
+//   },
+//   // End of Apc Customize UI
+//   "explorer.compactFolders": false,
+//   "update.mode": "manual",
+//   "editor.defaultFormatter": "esbenp.prettier-vscode",
+//   "vscord.status.problems.enabled": false,
+//   "vscord.ignore.workspacesText": "",
+//   "vscord.status.details.enabled": false,
+//   "[python]": {
+//     "editor.defaultFormatter": "ms-python.black-formatter",
+//     "editor.formatOnSave": true
+//   },
+//   "symbols.hidesExplorerArrows": false,
+//   "python.defaultInterpreterPath": "/Users/mustaphalimar/anaconda3/bin/python",
+//   "[c]": {
+//     "editor.defaultFormatter": "ms-vscode.cpptools",
+//     "editor.formatOnSave": true
+//   },
+//   "workbench.iconTheme": "symbols",
+//   "workbench.fontAliasing": "antialiased",
+//   "window.density.editorTabHeight": "compact",
+//   "[prisma]": {
+//     "editor.defaultFormatter": "Prisma.prisma"
+//   },
+//   "editor.formatOnSave": true
+// }
+{
+  "symbols.hidesExplorerArrows": false,
+  "window.titleBarStyle": "native",
+  "apc.font.family": "Bitstream Vera Sans Mono",
+  // "editor.fontFamily": "JetBrains Mono",
+  // "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font ",
+  // "editor.fontFamily": "DM Mono",
+
+  // "editor.fontFamily": "CommitMono",
+  // "editor.fontFamily": "DejaVu Sans Mono",
+  // "editor.fontFamily": "Bitstream Vera Sans Mono",
+  // "editor.fontFamily": "Fira Code",
+  // "editor.fontFamily": "Hack",
+  // "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+
+  "terminal.integrated.fontFamily": "MeslolGl Nerd Font",
+  // "editor.fontLigatures": true,
+  "terminal.integrated.fontSize": 14,
+  // "apc.font.family": "JetBrains Mono",
+
+  "editor.fontSize": 16.1,
+  "editor.fontWeight": "normal",
+  "editor.lineHeight": 1.4,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  // "editor.cursorSmoothCaretAnimation": "on",
+  // "editor.cursorBlinking": "smooth",
+  "editor.linkedEditing": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "explorer.compactFolders": false,
+  // "workbench.activityBar.location": "hidden",
+  "editor.minimap.enabled": false,
+  // "editor.scrollbar.horizontal": "hidden",
+  // "editor.scrollbar.vertical": "hidden",
+  "workbench.statusBar.visible": false,
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset",
+    "trafficLightPosition": {
+      "x": 10,
+      "y": 10
+    },
+    "frame": false
+  },
+  "apc.header": {
+    "height": 30,
+    "fontSize": 12
+  },
+  "apc.activityBar": {
+    "position": "bottom",
+    // "hideSettings": "true",
+    "size": 32
+  },
+  "apc.listRow": {
+    "height": 21.4,
+    "fontSize": 12
+  },
+  "apc.statusBar": {
+    "position": "editor-bottom",
+    "height": 20,
+    "fontSize": 10
+  },
+  "apc.stylesheet": {
+    ".title-label > h2": "display : none",
+    ".editor-actions": "display :none",
+    // ".pane-body": "padding : 6px",
+    // ".pane-header": "padding : 0 8px",
+    // ".nosidebar .inline-tabs-placeholder": "width : 0px",
+    ".split-view-view:first-child .pane-header": "display : none !important;",
+    ".monaco-list-row": "border-radius : 4px",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display :none;"
+  },
+  // "breadcrumbs.enabled": false,
+  "window.commandCenter": false, // hides command center at the top of the window. Use cmd+shift+p instead
+  "workbench.layoutControl.enabled": false, // hides those little squares on the top right of the window
+  "update.mode": "manual",
+
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorCustomizations": {
+    "tab.activeBorder": "#fff",
+    "terminal.background": "#00000000"
+  },
+  "prisma.showPrismaDataPlatformNotification": false,
+  "debug.javascript.codelens.npmScripts": "never",
+  "[php]": {
+    "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+  },
+  "workbench.startupEditor": "none",
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "workbench.iconTheme": "bearded-icons",
+  "workbench.settings.applyToAllProfiles": ["workbench.colorCustomizations"],
+  "window.confirmBeforeClose": "always",
+  "workbench.fontAliasing": "antialiased",
+  "editor.scrollbar.vertical": "hidden",
+  "workbench.colorTheme": "Noir Owl",
+  "window.zoomLevel": 0.75,
+  "npm.autoDetect": "off"
+}
